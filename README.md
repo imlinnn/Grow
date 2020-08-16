@@ -2,7 +2,7 @@
 
 ### Fork项目
 
-初心: Github的文件下载速度不快 且 大于 1G时 容易出错
+初心: Github的文件下载速度不快 且 大于 1G时 容易出错。
 
 **项目地址: [Grow](https://github.com/Borber/Grow/)** 
 
